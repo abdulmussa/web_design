@@ -1,0 +1,6 @@
+clone : ni kudownload folder lako.
+git clone <url>
+
+
+git status: hii inaangalia changes zilitokea.
+git add . :hii inaingiza katika folder ili liweza kwenda online
