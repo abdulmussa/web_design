@@ -1,6 +1,11 @@
-clone : ni kudownload folder lako.
+clone : ni kudownload folder lako zima.
 git clone <url>
 
 
 git status: hii inaangalia changes zilitokea.
-git add . :hii inaingiza katika folder ili liweza kwenda online
+git add . :hii inaingiza katika folder ili liweza kwenda online.
+git commit -m "hii ni commit ya kwanza ya mfano": hii inaipa maelezo.
+
+git pull: inavuta changes za online kuja local.
+
+git push -u origin master: hii inazi upload kwenda online
